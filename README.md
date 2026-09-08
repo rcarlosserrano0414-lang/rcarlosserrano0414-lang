@@ -94,6 +94,15 @@ Construyo sistemas backend que mantienen los procesos de negocio funcionando sin
 
 ## Proyectos Destacados
 
+<div align="center">
+
+[![Ver todos mis repositorios](https://img.shields.io/badge/Ver_todos_mis_repositorios-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7)](https://github.com/rcarlosserrano0414-lang?tab=repositories)
+
+<sub>Mientras subo los proyectos destacados, este botón siempre lleva a mis repositorios reales.</sub>
+
+</div>
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -170,6 +179,13 @@ Flujo de transcripción de audio asistido por IA usando Whisper, diseñado para 
 
 </div>
 
+---
+
+<div align="center">
+
+**Construir. Automatizar. Mejorar. Repetir.**
+
+</div>
 ---
 
 <div align="center">

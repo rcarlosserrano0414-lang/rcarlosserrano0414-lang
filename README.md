@@ -92,6 +92,12 @@ Construyo sistemas backend que mantienen los procesos de negocio funcionando sin
 
 <img src="https://github-profile-trophy.vercel.app/?username=rcarlosserrano0414-lang&theme=tokyonight&column=4&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="Trofeos de logros en GitHub" width="90%" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/rcarlosserrano0414-lang/rcarlosserrano0414-lang/output/github-contribution-grid-snake-dark.svg" alt="Animación de serpiente sobre el mapa de contribuciones" width="90%" />
+
+<sub>Esta animación requiere un GitHub Action de una sola vez — instrucciones al final de este mensaje.</sub>
+
 </div>
 
 ---
@@ -184,6 +190,14 @@ Flujo de transcripción de audio asistido por IA usando Whisper, diseñado para 
 </div>
 
 ---
+
+<div align="center">
+
+**Construir. Automatizar. Mejorar. Repetir.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2735,100:0D1117&height=100&section=footer" alt="Banner animado de pie de página" width="100%" />
+
+</div>
 
 <div align="center">
 

@@ -78,6 +78,7 @@ Construyo sistemas backend que mantienen los procesos de negocio funcionando sin
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rcarlosserrano0414-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=58A6FF&text_color=C9D1D9" alt="Estadísticas generales de GitHub de Carlos Serrano" width="49%" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarlosserrano0414-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9" alt="Lenguajes de programación más usados" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcarlosserrano0414-lang&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=58A6FF&fire=A78BFA&currStreakLabel=36BCF7" alt="Racha de contribuciones en GitHub" width="70%" />
@@ -94,9 +95,23 @@ Construyo sistemas backend que mantienen los procesos de negocio funcionando sin
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/rcarlosserrano0414-lang/rcarlosserrano0414-lang/output/github-contribution-grid-snake-dark.svg" alt="Animación de serpiente sobre el mapa de contribuciones" width="90%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rcarlosserrano0414-lang/rcarlosserrano0414-lang/output/github-contribution-grid-snake-dark.svg"
+  />
 
-<sub>Esta animación requiere un GitHub Action de una sola vez — instrucciones al final de este mensaje.</sub>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rcarlosserrano0414-lang/rcarlosserrano0414-lang/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/rcarlosserrano0414-lang/rcarlosserrano0414-lang/output/github-contribution-grid-snake.svg"
+    alt="Animación de serpiente sobre el mapa de contribuciones"
+    width="90%"
+  />
+</picture>
 
 </div>
 
@@ -108,57 +123,18 @@ Construyo sistemas backend que mantienen los procesos de negocio funcionando sin
 
 [![Ver todos mis repositorios](https://img.shields.io/badge/Ver_todos_mis_repositorios-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7)](https://github.com/rcarlosserrano0414-lang?tab=repositories)
 
-<sub>Mientras subo los proyectos destacados, este botón siempre lleva a mis repositorios reales.</sub>
-
 </div>
+
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Actualmente estoy organizando y publicando proyectos personales relacionados con:
 
-### 🤖 Proyecto de Automatización
-Pipeline de automatización de procesos para tareas repetitivas del negocio, reduciendo carga operativa y tiempos de ejecución.
-
-**Stack:** Python · Selenium · Appium
-
-[Ver repositorio](https://github.com/rcarlosserrano0414-lang/automation-project-placeholder)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔄 Proyecto de Datos / ETL
-Pipeline de extracción, transformación y sincronización de datos que conecta múltiples fuentes en un almacenamiento unificado en PostgreSQL.
-
-**Stack:** Python · PostgreSQL · ETL
-
-[Ver repositorio](https://github.com/rcarlosserrano0414-lang/etl-project-placeholder)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔌 Proyecto Backend / API
-API REST backend construida para ofrecer confiabilidad e integración limpia con sistemas externos.
-
-**Stack:** Django · Flask · REST APIs
-
-[Ver repositorio](https://github.com/rcarlosserrano0414-lang/backend-api-project-placeholder)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Proyecto de IA / Transcripción de Audio
-Flujo de transcripción de audio asistido por IA usando Whisper, diseñado para agilizar la recolección y el procesamiento de datos.
-
-**Stack:** Python · Whisper · AI Automation
-
-[Ver repositorio](https://github.com/rcarlosserrano0414-lang/ai-transcription-project-placeholder)
-
-</td>
-</tr>
-</table>
+- Automatización con Python, Selenium y Appium
+- Pipelines ETL y sincronización de datos con PostgreSQL
+- Backend y APIs con Django y Flask
+- Integraciones entre sistemas y servicios REST
+- Procesamiento y transcripción de audio con Whisper
+- Automatización e integración de soluciones basadas en IA
 
 ---
 
@@ -184,20 +160,16 @@ Flujo de transcripción de audio asistido por IA usando Whisper, diseñado para 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/rcarlosserrano0414-lang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/your-linkedin-placeholder)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=36BCF7)](mailto:your-email-placeholder@example.com)
+
+<!-- Reemplaza estas URLs cuando quieras publicar tus datos -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](TU_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=36BCF7)](mailto:TU_CORREO)
 
 </div>
 
 ---
-
-<div align="center">
-
-**Construir. Automatizar. Mejorar. Repetir.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2735,100:0D1117&height=100&section=footer" alt="Banner animado de pie de página" width="100%" />
-
-</div>
 
 <div align="center">
 

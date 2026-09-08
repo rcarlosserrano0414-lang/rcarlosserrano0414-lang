@@ -1,8 +1,6 @@
 <div align="center">
 
-# Carlos Serrano
-
-**Backend Developer | Automatización | Datos | IA**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2735,100:0D1117&height=180&section=header&text=Carlos%20Serrano&fontSize=42&fontColor=36BCF7&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20Automatizaci%C3%B3n%20%7C%20Datos%20%7C%20IA&descSize=18&descAlignY=62&descColor=C9D1D9" alt="Banner animado de encabezado" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Developer;Ingeniero+de+Automatizaci%C3%B3n;Desarrollador+Python;Integraciones+de+Datos+y+APIs;Arquitectura+Backend;Construyendo+Soluciones+Pr%C3%A1cticas+de+IA" alt="Animación de texto con roles profesionales rotativos" />
 
@@ -89,6 +87,12 @@ Construyo sistemas backend que mantienen los procesos de negocio funcionando sin
 </div>
 
 > Las estadísticas de lenguajes reflejan la distribución de código en los repositorios públicos y no representan una medida del nivel de habilidad.
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rcarlosserrano0414-lang&theme=tokyonight&column=4&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="Trofeos de logros en GitHub" width="90%" />
+
+</div>
 
 ---
 
@@ -185,11 +189,6 @@ Flujo de transcripción de audio asistido por IA usando Whisper, diseñado para 
 
 **Construir. Automatizar. Mejorar. Repetir.**
 
-</div>
----
-
-<div align="center">
-
-**Construir. Automatizar. Mejorar. Repetir.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2735,100:0D1117&height=100&section=footer" alt="Banner animado de pie de página" width="100%" />
 
 </div>

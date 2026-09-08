@@ -21,7 +21,6 @@ Me interesa construir soluciones mantenibles, automatizar tareas repetitivas y t
 - Selenium
 - Appium
 - REST APIs
-- KoboToolbox
 - Whisper / procesamiento de audio
 - Linux
 
@@ -32,7 +31,6 @@ Me interesa construir soluciones mantenibles, automatizar tareas repetitivas y t
 - Integraciones con APIs
 - ETL y sincronización de datos
 - Bases de datos
-- Procesamiento de formularios
 - Automatización web y móvil
 - IA aplicada a procesos
 
